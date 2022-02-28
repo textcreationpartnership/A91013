@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prime vvork of the first tripple-Parlament [sic]; or, The modest motion of religion's friends, humbly tendered by way of petition to the first representative of Great Britain and Ireland. Thus published, that some good men of every county may present a copy thereof to the Members of Parliament by them elected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91013</idno>
+            <idno type="STC">Wing P3460</idno>
+            <idno type="STC">Thomason E809_13</idno>
+            <idno type="STC">ESTC R207566</idno>
+            <idno type="EEBO-CITATION">99866610</idno>
+            <idno type="PROQUEST">99866610</idno>
+            <idno type="VID">118887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118887)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prime vvork of the first tripple-Parlament [sic]; or, The modest motion of religion's friends, humbly tendered by way of petition to the first representative of Great Britain and Ireland. Thus published, that some good men of every county may present a copy thereof to the Members of Parliament by them elected.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118887:1" rendition="simple:additions"/>
+            <p>THE PRIME WORK OF THE FIRST TRIPPLE-PARLAMENT; OR, The modeſt Motion of Religion's friends, humbly tendered by way of Petition to the firſt Repreſentative of Great <hi>Britain</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Thus publiſhed, that ſome good Men of every County may preſent a Copy thereof to the Members of Parliament by them elected.</p>
+            <q>
+               <p>
+                  <hi>Praemonitus, praemunitus.</hi>
+               </p>
+               <p>He that taketh warning ſhall deliver his Soul. <bibl>
+                     <hi>Ezek. 33.5.</hi>
+                  </bibl>
+               </p>
+               <p>As they went through the Cities they delivered them the De<g ref="char:EOLhyphen"/>crees for to keep, that were ordained of the Apoſtles and Elders; and ſo were the Churches eſtabliſhed in the Faith, and increaſed in number daily. <bibl>
+                     <hi>Acts 16.4.5.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>London, Printed by <hi>T. W.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:118887:2"/>
+            <pb n="1" facs="tcp:118887:2"/>
+            <head>To the Supreme Authority of the Common-wealth of Great BRITTAIN and IRELAND, The moſt HIGH and HONOURABLE Court of PARLIAMENT. The humble Petition of divers wel-affected in behalf of the CHURCH of CHRIST in all the three NATIONS.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners with all cheer<g ref="char:EOLhyphen"/>fulneſs and contentation affying in the happy ſettlement both of Church and State, by the prudent and Religious endeavours of His Highneſs the Lord Protector and this Honourable Aſ<g ref="char:EOLhyphen"/>ſembly, and with due humility and obedience ſubmit<g ref="char:EOLhyphen"/>ing to the unanimous Concluſions of this Supreme power, do conceive themſelves bound in duty, thank<g ref="char:EOLhyphen"/>fully to acknowledge that they are much comforted, that in this time of <hi>Jacobs</hi> trouble,<note place="margin">Revel. 12.15.</note> wherein the Ser<g ref="char:EOLhyphen"/>pent hath caſt out of his mouth a floud of Hereſies and Errours, God hath even beyond hope, called toge<g ref="char:EOLhyphen"/>ther ſuch Men of ſtature in Religion, and ſuch wor<g ref="char:EOLhyphen"/>thy Champions for Religion, as are reſolved vigo<g ref="char:EOLhyphen"/>rouſly
+<pb n="2" facs="tcp:118887:3"/>
+to oppoſe the enemies of the Truth and King<g ref="char:EOLhyphen"/>dom of Jeſus Chriſt,<note place="margin">Jude 3.</note> and earneſtly to contend for the Faith, which was once for all delivered unto the Saints.</p>
+            <p>As the end of your calling and meeting together, is to ſerve the Lord God and theſe Nations: ſo your way moſt ſurely and powerfully to effect both, is by ſettling the Diſtractions of the Church of Chriſt; for as the Church is part of Chriſt himſelf:<note place="margin">Eph. 5.23.</note> ſo is it a principal part of theſe Nations, even the Pillar and ſtay of all; for the State and Welfare of the Com<g ref="char:EOLhyphen"/>mon-wealth have their ſubſiſtence by true Godlineſs. Therefore as Religion is the whole duty of Man:<note place="margin">Eccleſ. 12.13.</note> ſo the whole work of a Parliament. It is the Baſis and bottom on which all Happineſs of a People are groun<g ref="char:EOLhyphen"/>ded,<note place="margin">Doctor <hi>Uſher.</hi>
+               </note> the Soder of all Societies, the Rule of right ru<g ref="char:EOLhyphen"/>ling, the Mother of entire and hearty love and obe<g ref="char:EOLhyphen"/>dience, the Life and Cement of Laws, the Nurſe of Peace, the Bond of Unity, the Strength of all De<g ref="char:EOLhyphen"/>fence, and ſuch a Bleſſing as bleſſeth all other bleſ<g ref="char:EOLhyphen"/>ſings unto any People. Therefore now at your firſt Entrance, whilſt your thoughts are free and devoted to God, Your Petitioners do mind you of nothing elſe, but only of ſetling the Doctrine and Diſcipline of the true Reformed Religion.<note place="margin">By Sir <hi>Ben. Rudy<g ref="char:EOLhyphen"/>erd.</hi>
+               </note>
+            </p>
+            <p>This hath often heretofore been Petitioned and mo<g ref="char:EOLhyphen"/>ved for in Parliaments, and will now lye heavy upon Parliaments until it be effected; for when God is neg<g ref="char:EOLhyphen"/>lected of Man, Man ſhall be contemned of God; when man abridgeth God of his honour, God will ſhorten man of his happineſs. But now if you do indeed make Religion your Buſineſs, you will become a Heavenly
+<pb n="3" facs="tcp:118887:3"/>
+Parliament; for that will be your guide and ſtay in all other buſineſſes, you will Steer your courſe by that Compaſs, it will new model your deſires and affecti<g ref="char:EOLhyphen"/>ons, and direct, limit and circumſtantiate all your De<g ref="char:EOLhyphen"/>bates, Votes and Acts. And in ſecuring Religion, you will alſo ſecure His Highneſs and your Selves, not on<g ref="char:EOLhyphen"/>ly by maintaining His and your beſt Intereſt (the U<g ref="char:EOLhyphen"/>nion and Love of the People) but by defeating any Plots that are or may be conſpired by the enemies of Religion, whoſe factious and ſeditious Spirits, as they do already much diſquiet the Church, and diſcontent all good people: So they do evidently endanger the Peace of the State, ſubverſion of the Civil Govern<g ref="char:EOLhyphen"/>ment, and deſtruction of the Governours; for Church-Rebels will ſoon become State-Rebels, and their Do<g ref="char:EOLhyphen"/>ctrine and practice have ever been,<note place="margin">Maſter <hi>Hooker.</hi>
+               </note> either to Level Common-wealths, or to aſſume Magiſtracy unto them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>They that drave on ſo furiouſly in the late Parlia<g ref="char:EOLhyphen"/>ments, will again undoubtedly contrive to encounter you with their Faction; for having already unrivet<g ref="char:EOLhyphen"/>ted the Fabrick of Civil and Eccleſiaſtical Govern<g ref="char:EOLhyphen"/>ment, they do now imagin nothing is too difficult for them to attempt. It needeth not be inſtanced, how they therefore exclude all Order, that they themſelves may rule; mean while ſetting up ſo many different and contrary Congregations one againſt another, that they have almoſt rendred themſelves uncapable to be reduced into the Body either of Church or State; yet ſtill think themſelves the only fit men for the Keys and Scepter. So that greater Diviſions and more hor<g ref="char:EOLhyphen"/>rible Factions will inevitably enſue, to the breach of
+<pb n="4" facs="tcp:118887:4"/>
+that Union; which is the ſacred bond and preſerva<g ref="char:EOLhyphen"/>tion of the Common Peace of Church and State. Wherefore, unleſs you will be undermined by them, ſurely you will not ſo ſilently and patiently tollerate them.</p>
+            <p>If you pleaſe to conſider with what vehemency of Spirit they proſecute their Deſigns, how plauſible their popular Infuſions are in their poyſoning Ser<g ref="char:EOLhyphen"/>mons and peſtilent Pamphlets, how induſtrious and earneſt ſome of them were to be elected into this pre<g ref="char:EOLhyphen"/>ſent Parliament, and what inſolent ſpeeches, terrible menaces, and liberal promiſes they then publickly u<g ref="char:EOLhyphen"/>ſed, offering unto the people for their Suffrages, no leſs than the Tithes of this Nation, and ſcandalizing honeſt men that Voted for moſt worthy Members; you will with your Petitioners ſoon acknowledge, that of all the Diſtempers that at preſent threaten the Welfare of this Realm, no one more imploreth the ſpeedy, mature, and effectual conſideration of your moſt High and Honourable Council, than the Tor<g ref="char:EOLhyphen"/>rent of ſuch Violent ſpirits to be ſtopped, ere ever they ſwell beyond the Banks of Government; the o<g ref="char:EOLhyphen"/>ver-flowing of which Torrent is eaſily foreſeen, but will very hardly be remedied, unleſs the vigilancy of your Zeal do the more ſeaſonably prevent.</p>
+            <p>You are now the Governours, you are the Nurſing-Fathers of Gods Church, unto you is committed the care of all the Churches in all the three Nations; wherefore your Petitioners do further preſume to point out unto you ſome other Troublers of our <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> and to lay open before you ſome other ſore Grie<g ref="char:EOLhyphen"/>vances of the Church of Chriſt, humbly beſeeching
+<pb n="5" facs="tcp:118887:4"/>
+you with pitty to behold the miſerable diſorder and breaches thereof, for alas it ſhaketh,<note place="margin">Pſal. 60.2.</note> and to foreſee the Calamities that will (unleſs by your great wiſdom prevented) unavoydably follow. It is a work worthy the labour of a Parlament to redreſs them, none but a Parlament can do it, and none can do it more ſucceſ<g ref="char:EOLhyphen"/>fully than this Triple-Parlament. For moſt of the Churches of <hi>Ireland</hi> are unprovided of ſufficient Mi<g ref="char:EOLhyphen"/>niſters and maintenance; many Churches of <hi>Scotland</hi> and <hi>Wales</hi> are deprived of their maintenance, and con<g ref="char:EOLhyphen"/>ſequently of Miniſters; in the Marches or utmoſt Bor<g ref="char:EOLhyphen"/>ders of <hi>England</hi> are few good Miniſters; and through<g ref="char:EOLhyphen"/>out this Nation in Country Pariſhes generally, where there is ſo great Contempt begun, ſo heavy a Burthen continued, and ſo mean a Reward left to be had, and with ſo much difficulty to be received, what marvail if good Miniſters are and will be rare? All Labou<g ref="char:EOLhyphen"/>rers and Artificers have their hire increaſed; only he that laboureth and ſweateth in the Vineyard of the Lord, hath his hire abridged and abated. Is not this a ſhame for <hi>England,</hi> that ever ſince the knowledge of the Goſpel hath been increaſing amongſt us, the main<g ref="char:EOLhyphen"/>tenance of the Church hath been decaying? and will not this be the deſtruction of the Goſpel and of the Nation too?</p>
+            <p>As God in his Law took ſtrict order for the main<g ref="char:EOLhyphen"/>tenance of the Levites,<note place="margin">Num. 35.2.</note> ſo hath he given his Miniſters of the Goſpel his own Portion, Tithes and Offerings;<note place="margin">Matth. 23.23.</note> that ſo the ſplendour of the Church ſhould hold a par<g ref="char:EOLhyphen"/>ticipation and proportion with the proſperity of the temporal State. Both theſe have been confirmed un<g ref="char:EOLhyphen"/>to the Miniſtry in all Ages ſince: but now ſo it is, that
+<pb n="6" facs="tcp:118887:5"/>
+ſome, and chiefly they that are or ſhould be Patrons of the Church, are become Merchants in the Church, and a great deal more intollerable than were they whom Chriſt whipped and chaſed out of the Tem<g ref="char:EOLhyphen"/>ple;<note place="margin">John 2.15.</note> for theſe muzzle the Oxe that treadeth out the Corn, and encourage others ſo to do by their ill exam<g ref="char:EOLhyphen"/>ple; none of them conſidering that by deteining Tithes and Offerings, they rob God himſelf, and draw a Curſe on their own Eſtates.<note place="margin">Mala. 3.8, 9.</note>
+            </p>
+            <p>Now what Conſequences will the Forcible Entry into the Inheritance of the Church, and this Forcible Deteiner of the Miniſters Portion produce, but (that which ſucceeded in the like caſe in <hi>Jeroboam</hi>'s time, when he robbed the Prieſts &amp; Levites) Ignorance, Bar<g ref="char:EOLhyphen"/>bariſm,<note place="margin">1 Kings 12.31.</note> &amp; the loweſt of the people to be the Preachers of Gods word? whereby the blind will lead the blind, until both do fall into the Ditch?<note place="margin">Matth. 15.13.</note> Poor ſcandalous Livings will cauſe ſcandalous Miniſters, and the po<g ref="char:EOLhyphen"/>verty of Miniſters will make them deſpiſed; for be their Calling of it ſelf never ſo glorious, yet outward Poverty will ſoon bring Contempt upon them,<note place="margin">Eccleſ. 9.16.</note> eſ<g ref="char:EOLhyphen"/>pecially amongſt thoſe who meaſure men by the Acre, and weigh them by the pound, which indeed is the greateſt part of men. And the contempt of the Prea<g ref="char:EOLhyphen"/>chers will quickly make the Word of God deſpiſed, and ſo conſequently God himſelf;<note place="margin">1 Theſ. 4.8.</note> For he that deſpi<g ref="char:EOLhyphen"/>ſeth theſe, deſpiſeth not man, but God. And can any think, the Great God will allow his holy Name to be deſpiſed? Nay, as ſome of theſe evil Events are al<g ref="char:EOLhyphen"/>ready come to paſs, ſo are his Judgements already begun, and his wrath is already manifeſtly kindled, in-ſo-much as in ſeveral places the people do already
+<pb n="7" facs="tcp:118887:5"/>
+wander abroad as Sheep having no Shepherd.<note place="margin">Matth. 9.36.</note> In <hi>Ire<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales</hi> there are few that can diſcover unto the people the Iniquity of their Sins, few that can move them to ſeek Faith and Repentance, few that can Preach unto them Forgiveneſs through Chriſt, few that can forewarn them againſt Temptations to Evil, few that can build them upon the foundation of the Apoſtles and Prophets,<note place="margin">Eph. 2.20.</note> few that can inſtruct them con<g ref="char:EOLhyphen"/>cerning the hope of everlaſting Life. For the ſame cauſe multitudes in <hi>England</hi> alſo live ſtill in their Sins,<note place="margin">Rom. 1.28. Phil. 3.18.</note> like Heathens which know not God, without any feeling of Conſcience, without any fear of God; many walk as enemies of the Croſs of Chriſt, who blaſpheme the bleſſed Name of God, and rent his Church; There<g ref="char:EOLhyphen"/>fore it is but juſt if the Kingdom of God be taken from us, and that He ſend a Famine in this Land,<note place="margin">Amos 8.11.</note> not a Fa<g ref="char:EOLhyphen"/>mine of Bread, but of hearing the Word.</p>
+            <p>Thus, as the eſtabliſhing of Religion in theſe Nati<g ref="char:EOLhyphen"/>ons is your main Buſineſs and of greateſt importance, ſo your Petitioners truſt you will take it into your firſt and tendereſt thoughts: for if Religion have the firſt Vote from you, and God the precedence within you, other things will ſurer and ſooner be granted unto you; becauſe Chriſt himſelf hath ſaid it:<note place="margin">Matth. 6.33.</note> 
+               <hi>Seek ye firſt the Kingdom of God and his righteouſneſs, and all theſe things ſhall be added unto you.</hi>
+            </p>
+            <p>It was well obſerved by that Honourable City of <hi>London,</hi>
+               <note place="margin">Preſented <hi>Sept.</hi> 2. 1653.</note> in their laſt years Petition (to the ſame effect with this) That whilſt the firſt of theſe Parliaments did promote the Intereſt of Chriſt in taking care of all able and faithful Miniſters, ſetting them at liberty from perſecutions, giving them encouragement in
+<pb n="8" facs="tcp:118887:6"/>
+the exerciſe of their Miniſtry and adding to their main<g ref="char:EOLhyphen"/>tenance; Alſo in their encouraging Learning, by Reforming the Univerſities, and increaſing the main<g ref="char:EOLhyphen"/>tenance of the Governours of Colledges; the Lord did bleſs their Councils and Forces by Land and Sea even to admiration. And now it is as experimentally obſerved by your Petitioners, that our later Parlia<g ref="char:EOLhyphen"/>ments were therefore leſs proſperous; becauſe they preferred other matters before Religion. What they did in the Church, proved moſt unhappily againſt the Church; witneſs their pulling down the eſtabliſhed Maintenance and Diſcipline, and ſetting up none in ſtead thereof. So that whilſt they endeavoured to ſhut out Superſtition, they let in a crowd of Innova<g ref="char:EOLhyphen"/>tions, and ſuch as give grievous ſcandal to the Refor<g ref="char:EOLhyphen"/>med Religion, great advantage to our enemies of <hi>Rome,</hi> and encouragement to all turbulent Spirits in this Iſland, as appears by the late increaſe of Atheiſts, Anabaptiſts, Hereticks, Ranters, Quakers and Blaſ<g ref="char:EOLhyphen"/>phemers; who walk after their own ungodly luſts.</p>
+            <p>
+               <note place="margin">Jude 18, 19.</note>Theſe be they who ſeparate themſelves, ſenſual, having not the Spirit. They take Liberty of Con<g ref="char:EOLhyphen"/>ſcience to Tyrannize over the Conſciences of others, by introducing into the Church, and impoſing upon others all things which themſelves do affect. They revile the Proteſtant Churches, holieſt Miniſters and publick Congregations as Anti-Chriſtian; and in this vacancy of Church-Diſcipline, many (even in con<g ref="char:EOLhyphen"/>tempt of Authority) do what ſeemeth good in their own eys only; they ſeize on Miniſters Livings, and uſurp their Function and Pulpits, belching out Blaſ<g ref="char:EOLhyphen"/>phemy, Schiſm, Sedition and Hereſy, without dread
+<pb n="9" facs="tcp:118887:6"/>
+or puniſhment. They teach that the Civil Magiſtrate hath nothing to do in matters of Religion, though it be written:<note place="margin">Rom. 13.1.</note> 
+               <hi>Let every Soul be Subject unto the higher powers.</hi> Every Man, ſaith <hi>Chryſoſtom,</hi> whether Lay or Clergy.</p>
+            <p>They perſwade that there is no need of a Miniſte<g ref="char:EOLhyphen"/>ry, eſpecially of a learned one; therefore they would deſtroy the Univerſities, and do labour to alienate the hearts of the people from their Paſtors, and to take away the ſetled maintenance of Miniſters by Tithes, and to ſuppreſs Learning and Studious Divines, by allowing double Honour to none but themſelves: And in all theſe they do gratify and aſſiſt the Papiſts and Jeſuits in their deſigns againſt our eſtabliſhed Re<g ref="char:EOLhyphen"/>ligion, and do manifeſt unto all the World, that they intend no leſs than the ruin of all Order and Govern<g ref="char:EOLhyphen"/>ment both in Church and State.</p>
+            <p>They boaſt of the Spirit:<note place="margin">Gal, 5.22.23.</note> but ſhew not the fruit of the Spirit, <hi>viz. Love, Joy, Peace, Long-ſuffering, Gentle<g ref="char:EOLhyphen"/>neſs, Goodneſs, Faith, Meekneſs, Temperance.</hi> But the works of the Fleſh are ſo abundantly manifeſted in them, that your Petitioners in all humiliy do deſire to proſtrate before you the dangerous Conſequences of theſe Innovators and their Innovations, that ſo you may Cordially and Unanimouſly haſten to ſtop all their Exorbitances and Incroachments; leſt theſe un<g ref="char:EOLhyphen"/>godly men over-run His Highneſs Dominions,<note place="margin">Anno. 1533. 2 Tim. 3.13.</note> and over-whelm them in Bloud, as others did <hi>Germany; For evil men and ſeducers will wax worſe and worſe, deceiving, and being deceived.</hi>
+            </p>
+            <p>Be pleaſed therefore to take notice, that the bleſ<g ref="char:EOLhyphen"/>ſed Sacraments, and other holy Ordinances of God,
+<pb n="10" facs="tcp:118887:7"/>
+are not only depraved by many of thoſe who ſhould teach conformity to eſtabliſhed Laws: but in contempt of them, in many places wholy neglected, or admini<g ref="char:EOLhyphen"/>ſtred by the hands of unfitting men, that have no out<g ref="char:EOLhyphen"/>ward calling to the Miniſtry, audaciouſly and with<g ref="char:EOLhyphen"/>out any puniſhment. Marriage (an Ordinance of God alſo) is expoſed to contempt, and that by virtue of an Act of Parliament. Excommunication layd aſide. Catechiſing but ſeldom uſed.<note place="margin">Matth. 6.9.</note> That abſolute Model the Lords Prayer reviled.</p>
+            <p>Our only and bleſſed Saviour in his Deity and Scriptures blaſphemed. His Miniſters reproached. Many Houſes of God robbed, waſted and made de<g ref="char:EOLhyphen"/>ſolate. The Moral Law abrogated. Obedience to Ci<g ref="char:EOLhyphen"/>vil Magiſtrates denyed, and in theſe the foundation both of Religion and the Common-wealth over<g ref="char:EOLhyphen"/>turned. By all which evils Almighty God is highly provoked, the preſent Government diſhonoured, the Peace of the Nations diſturbed, the Conſciences of Gods people diſquieted, the Miniſters of Gods word diſcouraged, the glory of our <hi>Iſrael</hi> departed, and the enemies of the Church emboldned in their enter<g ref="char:EOLhyphen"/>prizes.</p>
+            <p>Now not only to redreſs theſe Grievances, and prevent theſe ſad Events, but that all may come into the Uni<g ref="char:EOLhyphen"/>ty of the Faith,<note place="margin">Eph. 4.3, 13, 14, 15.</note> and of the knowledge of the Son of God, unto a perfect Man; and may all keep the U<g ref="char:EOLhyphen"/>nity of the Spirit in the bond of Peace, and may henceforth be no more Children, toſſed to and fro, and carried about with every wind of Doctrine, by the ſleight of men, and cunning craftineſs, where<g ref="char:EOLhyphen"/>by
+<pb n="11" facs="tcp:118887:7"/>
+they lie in wait to deceive; but may grow up un<g ref="char:EOLhyphen"/>to him in all things, which is the Head, even Chriſt: May it pleaſe this Great and Honourable Court ſpeedily to command throughout theſe Do<g ref="char:EOLhyphen"/>minions, a general due obſervation of the true Reformed Religion by Law eſtabliſhed, in ſuch manner as may ſeem beſt to the piety and wiſdom of His Highneſs and this moſt Honourable Coun<g ref="char:EOLhyphen"/>cel; For your Petitioners do in no wiſe preſume to preſcribe Rules, only theſe are their humble and ardent Deſires.</p>
+            <p n="1">1. That to prevent a Combuſtion, you would pleaſe to blow out the ſparks, and conſtrain irregular and diſorderly Schiſmaticks and Heretical Sects (now the moſt dangerous Incendiaries of all) into right Paths of ſerving God, to frequent his Houſe as well to pray as to hear, to be under a Diſcipline, to bow to Autho<g ref="char:EOLhyphen"/>rity, and to live in Peace and Order: Elſe variety of Opinions will beget variety of Affections; and when mens hearts become Flinty each to other, if they meet, they will ſtrike Fire.</p>
+            <p n="2">2. That the Word of God be not blaſphemed, nor any Innovation of Doctrine admitted or tollerated, nor the holy Adminiſtrations prophaned; you would pleaſe ſpeedily to commit to Juſtice all known Blaſ<g ref="char:EOLhyphen"/>phemers, to ſuppreſs all Schiſmatical Pamphlets, to provide againſt Heretical Sermons, and to make ſome ſevere Law againſt Lay mens during to arrogate to themſelves, and to execute the holy Function of the Miniſtery in publick.</p>
+            <p n="3">3. That to diſpel the Darkneſs of Ignorance, you
+<pb n="12" facs="tcp:118887:8"/>
+would pleaſe to let in the Light of divine knowledge; by appointing publick Catechiſing every Lords Day in every Church. And to propagate the Goſpel more effectually. You would pleaſe ſadly to conſider the deſolation of the Churches in <hi>Ireland,</hi> and the<note n="[*]" place="margin">In both their Books.</note> crys of the Churches in <hi>Wales,</hi> and to reſtore unto them their former maintenances, and to ſend forth able Pa<g ref="char:EOLhyphen"/>ſtors into every Pariſh.</p>
+            <p n="4">
+               <note place="margin">1 Cor. 9.13.</note>4. That they that Miniſter at the Altar may live by the Altar, and without Contempt; you would pleaſe to enact ſome Law for Parſons and Vicars re<g ref="char:EOLhyphen"/>covery of Tithes and Offerings, in ſuch a way as may be moſt ſpeedy and leaſt chargeable, and to grant Augmentations to ſuch as have the ſmalleſt Livings.</p>
+            <p n="5">5. That learning may be cheriſhed, and a ſupply of able Divines continued; you would pleaſe to maintain the juſt rights and properties of the Univer<g ref="char:EOLhyphen"/>ſities, which are the Seminaries of good Literature, and the Schools of the Prophets, and to reduce them to the due obſervation of their Statutes, and to place worthy Governours in them.</p>
+            <p n="6">6. That the ſtudy of Divinity, and the faithful Diſ<g ref="char:EOLhyphen"/>penſors of the Goſpel may be incouraged; you would pleaſe not only to confirm unto them the ſet<g ref="char:EOLhyphen"/>led maintenances without further diminution; but al<g ref="char:EOLhyphen"/>ſo propound good Preferments to men able in this Heavenly Calling, that thereby men of worthieſt Gifts may be won unto it: For herein the Papiſts ſhew themſelves wiſer than the true Church of God.</p>
+            <p n="7">7. Laſtly, that the precious Truths of the Goſpel and the holy Ordinances of God may be preſerved in their purity and brightneſs, and all Differences con<g ref="char:EOLhyphen"/>cerning
+<pb n="13" facs="tcp:118887:8"/>
+Doctrine and Ceremonies of Religion may be compoſed; you would pleaſe that a free and Na<g ref="char:EOLhyphen"/>tional Synod may ſpeedily be convened of moſt grave, learned, pious, judicious and unbyaſſed Divines, to be choſen by all the Clergy, becauſe all the Clergy are to be bound by their reſolutions; And the deter<g ref="char:EOLhyphen"/>mination of this Synod to bind all perſons, after you have formed them into a Law. And this your Petitio<g ref="char:EOLhyphen"/>ners humbly conceive to be according to the antient and fundamental Law of this Land, confirmed by <hi>Magna Charta.</hi>
+            </p>
+            <p>All which your Petitioners do humbly offer to the grave wiſdom and pious conſideration of this moſt Ho<g ref="char:EOLhyphen"/>nourable Aſsembly, as the thoughts and deſires (as they are perſwaded) of multitudes of the ſound Members of the Church of Chriſt. And in confi<g ref="char:EOLhyphen"/>dence of your forward Zeal for the Lord, in ad<g ref="char:EOLhyphen"/>vancing the true Religion, they hold it needleſs to preſs you with Subſcriptions of any of their Names; but humbly beſeech the Almighty God to direct and proſper all your Counſels and Reſults, and ye to pardon their Errours and Preſumptions herein.</p>
+            <p>
+               <hi>Be of good Courage,</hi>
+               <note place="margin">Pſal. 31.24. &amp; 73.1.</note> 
+               <hi>and God ſhall ſtrengthen your Heart, all ye that hope in the Lord. For truly God is good to</hi> Iſrael, <hi>even to ſuch as are of a clean heart.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSALM. 25.22.</hi>
+               </bibl>
+               <p>Redeem <hi>Iſrael,</hi> O God, out of all his Troubles. <hi>Amen.</hi>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
